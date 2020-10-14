@@ -1,0 +1,6 @@
+# bitmapped output in bit depth 8
+-gb -gB16
+
+-gT!
+
+-p!

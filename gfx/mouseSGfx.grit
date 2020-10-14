@@ -1,0 +1,9 @@
+# tiled output in bit depth 8
+-gt 
+-gB8
+
+# meta tiles
+-Mw4 
+-Mh4
+
+-pn 16
